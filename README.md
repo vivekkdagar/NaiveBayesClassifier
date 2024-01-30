@@ -23,8 +23,8 @@ pip install requests bs4 pandas scikit-learn joblib
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/vivekkdagar/language-classification-tutorial.git
-   cd language-classification-tutorial
+   git clone https://github.com/vivekkdagar/NaiveBayesClassifier.git
+   cd NaiveBayesClassifier
    ```
 
 2. **Run the Main Script:**
