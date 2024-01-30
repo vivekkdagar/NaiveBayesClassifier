@@ -1,4 +1,4 @@
-# Multinomial Naive Bayes Language Classification Tutorial
+# Multinomial Naive Bayes Language Classification Model
 
 This repository provides a tutorial on implementing language classification using the Multinomial Naive Bayes algorithm. The tutorial includes a Python implementation to detect the language of a given text. The code consists of two main files: `main.py` for user interaction and `detector.py` containing the `LanguageClassifier` class.
 
